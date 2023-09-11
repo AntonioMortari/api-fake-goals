@@ -3,8 +3,8 @@
     {
       "firstName": "Antonio Mortari",
       "email": "antoniomortari09@gmail.com",
-      "password": "30030522",
-      "password2": "30030522",
+      "password": "123",
+      "password2": "123",
       "tasks": [
         {
           "nameTask": "Estudar inglês",
